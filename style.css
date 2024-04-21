@@ -427,9 +427,10 @@ section.footer{
          width: 21rem;
      }
  
-     .academic__courses__item__img {
+     .academic__courses__item__img > img {
          width: 100%;
          align-self: center;
+         
      }
  
          /*Experiência Profissional*/
