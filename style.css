@@ -78,10 +78,11 @@ section.menu{
      line-height: 31.05px;
 }
  
-.title__network{
+.title__network {
      display: flex;
      gap: 50px;
      font-size: 20px;
+     
 }
  
  /*Sessão sobre mim*/
